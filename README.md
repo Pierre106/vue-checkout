@@ -1,4 +1,4 @@
-# ecommerce3
+# Vue.js Shopping chart
 
 ## Project setup
 ```
